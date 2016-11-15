@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: EmailProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: afzal
+Implementation-Vendor-Id: com.email
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/email/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
